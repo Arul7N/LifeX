@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => FamilyProvider()),
       ],
       child: MaterialApp(
-        title: 'Family Health App',
+        title: 'LifeX',
         theme: AppTheme.lightTheme,
         home: HomeScreen(),
         debugShowCheckedModeBanner: false,

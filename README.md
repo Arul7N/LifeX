@@ -1,6 +1,6 @@
-# Family Health App
+# LifeX
 
-A Flutter mobile application for managing family health records, check-ups, and reminders with Atlassian-style UI.
+LifeX - Your Family Health Companion. A Flutter mobile application for managing family health records, check-ups, and reminders with Atlassian-style UI.
 
 ## Features
 
